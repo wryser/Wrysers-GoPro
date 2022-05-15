@@ -1,4 +1,4 @@
-# Wrysers-GoPro
+# Wrysers GoPro!
 Adds A GoPro with lots of features inside of the game! such as
 - FOV Changing
 - First Person
