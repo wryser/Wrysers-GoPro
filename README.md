@@ -7,3 +7,6 @@ Adds A GoPro with lots of features inside of the game! such as
 - Follow Player
 - Smoothed First Person
 - Camera That is Holdable, Grabbable and placeable
+
+## Requires Gorilla Menu!
+https://github.com/wryser/Gorilla-Menu/
