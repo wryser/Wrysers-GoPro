@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://www.patreon.com/wryser"><img width="50%" height="auto" src="https://blissfulhiker.com/wp-content/uploads/2023/12/support-me-on-patreon.png">
 </p>
-Wrysers GoPro is a modification to 'Gorilla Tag' that adds a camera (AKA a "GoPro").
+<h3 align="center">Wrysers GoPro is a modification to 'Gorilla Tag' that adds a camera (AKA a "GoPro").</h1>
 
 # Features
 - FOV Changing
